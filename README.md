@@ -17,6 +17,7 @@ Principalele caracteristici:
 - Conectivitate USB-C pentru incarcare si programare
 - 3 butoane fizice pentru interactiune
 
+
 ---
 
 ## Diagrama bloc
